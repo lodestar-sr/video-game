@@ -1,0 +1,9 @@
+input, select, textarea {
+  @apply text-white;
+  @apply font-medium;
+
+  &::placeholder {
+    color: #c1d1e8 !important;
+    opacity: 1 !important;
+  }
+}

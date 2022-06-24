@@ -1,0 +1,65 @@
+{
+  "name": "video-games-web-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.11.2",
+    "autoprefixer": "^10.4.2",
+    "axios": "^0.26.1",
+    "classnames": "^2.3.1",
+    "dotenv": "^16.0.0",
+    "global": "^4.4.0",
+    "history": "5.3.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "node-sass": "^7.0.1",
+    "postcss": "^8.4.6",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-redux": "^7.2.6",
+    "react-router": "5.2.0",
+    "react-router-dom": "5.2.0",
+    "react-scripts": "5.0.0",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "tailwindcss": "^3.0.23",
+    "typescript": "4.2.3",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@types/classnames": "2.3.1",
+    "@types/history": "5.0.0",
+    "@types/lodash": "4.14.168",
+    "@types/moment": "2.13.0",
+    "@types/moment-timezone": "0.5.30",
+    "@types/react-dom": "17.0.11",
+    "@types/react-redux": "7.1.23",
+    "@types/react-router": "5.1.15",
+    "@types/react-router-dom": "5.1.7"
+  }
+}
